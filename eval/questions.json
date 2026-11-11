@@ -1,0 +1,12 @@
+[
+  {"question": "How many days of paid annual leave do full-time employees get?", "expect": ["24"], "source": "employee_handbook.pdf"},
+  {"question": "When do carried-over leave days expire?", "expect": ["31 march"], "source": "employee_handbook.pdf"},
+  {"question": "How many days per week can employees work remotely?", "expect": ["3"], "source": "employee_handbook.pdf"},
+  {"question": "What is the monthly platform fee in the Contoso contract?", "expect": ["4,200"], "source": "vendor_contract.docx"},
+  {"question": "How much notice is needed to stop the contract renewing?", "expect": ["60"], "source": "vendor_contract.docx"},
+  {"question": "What is the maximum service credit?", "expect": ["30%"], "source": "vendor_contract.docx"},
+  {"question": "Which region had the highest Q3 revenue and how much?", "expect": ["east", "241"], "source": "q3_sales.xlsx"},
+  {"question": "How many deals did the South region close?", "expect": ["22"], "source": "q3_sales.xlsx"},
+  {"question": "What is the company's dental insurance provider?", "expect": "NOT_FOUND"},
+  {"question": "Who is the CEO of Contoso Cloud?", "expect": "NOT_FOUND"}
+]
